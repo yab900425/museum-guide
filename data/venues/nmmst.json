@@ -1,0 +1,60 @@
+{
+  "slug": "nmmst",
+  "name": "國立海洋科技博物館",
+  "city": "基隆市",
+  "district": "中正區",
+  "category": "博物館",
+  "address": "基隆市中正區北寧路367號",
+  "hours": "09:00–17:00（售票至 16:00）",
+  "closed": "每週一、除夕休館（暑假、國定假日、連續假期照常開館）",
+  "website": "https://www.nmmst.gov.tw/",
+  "exhibition_page": "https://www.nmmst.gov.tw/chhtml/contentlist/221/0",
+  "verified_on": "2026-11-16",
+  "notes": "官網寫明 2026-11-28 因投票日，營運時間調整為 12:00–17:00。官網首頁沒有寫各展覽的展出地點與實際交通班次，請見官網。",
+  "exhibitions": [
+    {
+      "id": "nmmst-sea-you",
+      "title": "《SEA YOU》海洋的見證與再造特展",
+      "kind": "特展",
+      "start": "2026-07-01",
+      "end": "2026-12-31",
+      "location": null,
+      "source_url": "https://www.nmmst.gov.tw/chhtml/contentlist/221/0",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "nmmst-polar",
+      "title": "《極地探險》Exploring the Poles 特展",
+      "kind": "特展",
+      "start": null,
+      "end": "2027-05-02",
+      "location": null,
+      "source_url": "https://www.nmmst.gov.tw/chhtml/contentlist/221/0",
+      "date_source": "列表頁",
+      "note": "官網兩處的開始日期不一致（標題寫 2026-06-05，展覽列表寫 2026-05-25），結束日皆為 2027-05-02，開始日待確認。"
+    },
+    {
+      "id": "nmmst-ocean-future",
+      "title": "《海洋未來式》The Ocean Will…佛光山佛陀紀念館巡迴特展",
+      "kind": "特展",
+      "start": "2026-11-07",
+      "end": "2027-08-01",
+      "location": null,
+      "source_url": "https://www.nmmst.gov.tw/",
+      "date_source": "首頁",
+      "note": "官網首頁未說明是否在本館展出，請至官網確認。"
+    },
+    {
+      "id": "nmmst-secret-base",
+      "title": "國家科技寶藏－科學家的秘密基地 2.0 特展",
+      "kind": "特展",
+      "start": "2026-07-03",
+      "end": "2029-12-31",
+      "location": null,
+      "source_url": "https://www.nmmst.gov.tw/",
+      "date_source": "首頁",
+      "note": "只出現在官網首頁輪播，沒有出現在展覽列表，請至官網確認。"
+    }
+  ]
+}

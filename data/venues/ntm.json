@@ -1,0 +1,82 @@
+{
+  "slug": "ntm",
+  "name": "國立臺灣博物館（本館）",
+  "city": "臺北市",
+  "district": "中正區",
+  "category": "博物館",
+  "address": "臺北市中正區襄陽路2號（二二八和平公園內）",
+  "hours": "週二至週日 09:30–17:00（官網未標明適用哪一個館）",
+  "closed": "週一休館",
+  "website": "https://www.ntm.gov.tw/",
+  "exhibition_page": "https://www.ntm.gov.tw/",
+  "verified_on": "2026-11-16",
+  "notes": "臺博有多個館：古生物館（襄陽路25號）、南門館（南昌路一段1號）、鐵道部園區（延平北路一段2號）。官網首頁列出下列展覽，但都沒有標示展期，地點也大多沒有寫，因此展期一律「待確認」。",
+  "exhibitions": [
+    {
+      "id": "ntm-tnunan",
+      "title": "Tnunan 循物而返，相繫共生：30+臺博藏品串起的南澳泰雅人群像",
+      "kind": "特展",
+      "start": null,
+      "end": null,
+      "location": null,
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": null
+    },
+    {
+      "id": "ntm-auspicious-jade",
+      "title": "方寸福田—謝碧蓮女士捐贈吉祥玉飾",
+      "kind": "特展",
+      "start": null,
+      "end": null,
+      "location": null,
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": null
+    },
+    {
+      "id": "ntm-signals",
+      "title": "時代的訊號：傳播技術與民主的攪動",
+      "kind": "特展",
+      "start": null,
+      "end": null,
+      "location": null,
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": null
+    },
+    {
+      "id": "ntm-sixth-extinction",
+      "title": "第六次大滅絕？命運還是機會",
+      "kind": "特展",
+      "start": null,
+      "end": null,
+      "location": null,
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": null
+    },
+    {
+      "id": "ntm-paleo",
+      "title": "古生物大展－生命的史詩與演化共舞",
+      "kind": "常設展",
+      "start": null,
+      "end": null,
+      "location": "古生物館",
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": "官網線上展覽區標示為古生物館常設展。"
+    },
+    {
+      "id": "ntm-exploring-taiwan",
+      "title": "博物臺灣 常設展 Exploring Taiwan",
+      "kind": "常設展",
+      "start": null,
+      "end": null,
+      "location": null,
+      "source_url": "https://www.ntm.gov.tw/",
+      "date_source": "首頁",
+      "note": null
+    }
+  ]
+}

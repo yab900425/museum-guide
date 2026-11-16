@@ -1,0 +1,104 @@
+{
+  "slug": "songshan",
+  "name": "松山文創園區",
+  "city": "臺北市",
+  "district": "信義區",
+  "category": "文創園區",
+  "address": "臺北市信義區光復南路133號",
+  "hours": "戶外空間 24 小時開放；室內空間 8:00–22:00（含辦公區域及限入區域）",
+  "closed": null,
+  "website": "https://www.songshanculturalpark.org/",
+  "exhibition_page": "https://www.songshanculturalpark.org/",
+  "verified_on": "2026-11-16",
+  "notes": "園區同期還有快閃店、市集、賽事等活動，依本站收錄規則（只收藝術、設計、文化類展覽）沒有收錄。園區官網「行事曆」列表的日期，和各展覽詳情頁常常不一致（例如毛孩藝術生活節、金點設計展、學美），本站一律以詳情頁為準。",
+  "exhibitions": [
+    {
+      "id": "songshan-pharaoh-vr",
+      "title": "《消失的法老》古夫金字塔 VR 沉浸體驗",
+      "kind": "特展",
+      "start": "2026-01-29",
+      "end": "2026-11-30",
+      "location": "XR 沉浸玩家，園區東向製菸工廠二樓（A7 E203）",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2",
+      "date_source": "詳情頁",
+      "note": null
+    },
+    {
+      "id": "songshan-luminous-garden",
+      "title": "松菸夜光花園 光影展 THE LUMINOUS GARDEN",
+      "kind": "特展",
+      "start": "2026-01-31",
+      "end": "2026-12-31",
+      "location": "巴洛克花園",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/07e87658-6bea-4715-b633-5e44cd2d9e30",
+      "date_source": "詳情頁",
+      "note": "官網寫明每日 18:00–22:00 播放、免費參觀，並註明 2026 年 10 月部分日期調整或暫停。"
+    },
+    {
+      "id": "songshan-furever-art",
+      "title": "毛孩藝術生活節 FURever Art Festival : IM\"PAW\"SIBLE",
+      "kind": "特展",
+      "start": "2026-12-18",
+      "end": "2026-12-20",
+      "location": "2 號倉庫",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c738025c-425f-4fdb-b7f0-79fcf49c7dc1",
+      "date_source": "詳情頁",
+      "note": "官網行事曆列表寫 2026-08-20 至 2026-12-21，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "songshan-taipei-new-art",
+      "title": "台北新藝術博覽會《居然 · 藝境》",
+      "kind": "特展",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "location": "2、3、4 號倉庫",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/98ffd4b1-9b28-4398-a964-dadde97d2b8a",
+      "date_source": "詳情頁",
+      "note": "公眾展覽為 11/20–11/22；11/19 為貴賓時段。"
+    },
+    {
+      "id": "songshan-connecting",
+      "title": "學美 CONNECTING",
+      "kind": "特展",
+      "start": "2026-11-10",
+      "end": "2027-02-14",
+      "location": "台灣設計館 03 展間",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c6a5baf4-98fe-46b0-afac-9b7d9b3474be",
+      "date_source": "詳情頁",
+      "note": "官網行事曆列表寫 2026-10-29 至 2027-02-15，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "songshan-art-window",
+      "title": "松山文創園區藝術窗框計畫一海潮如息：水、土地與我們",
+      "kind": "特展",
+      "start": "2026-11-06",
+      "end": "2027-01-03",
+      "location": "北向製菸工廠窗框（文創大街）",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/0a51550c-418c-462f-8f38-c795418625b5",
+      "date_source": "詳情頁",
+      "note": "官網行事曆列表寫 2026-10-30 至 2027-01-04，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "songshan-golden-pin",
+      "title": "2026 金點設計展 2026 Golden Pin Design Exhibition",
+      "kind": "特展",
+      "start": "2026-11-17",
+      "end": "2027-04-25",
+      "location": "台灣設計館 01、02、04 展間",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/ef7b55b4-2233-4615-91d4-52b85290628a",
+      "date_source": "詳情頁",
+      "note": "官網行事曆列表寫 2026-11-02 至 2027-04-26，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "songshan-if-design",
+      "title": "融 · 全球｜2026 年 iF 設計獎獲獎作品展（VI）",
+      "kind": "特展",
+      "start": "2026-11-06",
+      "end": "2026-12-02",
+      "location": "iF 台北設計沙龍，西向製菸工廠二樓（A7 W207）",
+      "source_url": "https://www.songshanculturalpark.org/exhibition/activity/b2735b74-e7db-41e2-911b-004e857f8d29",
+      "date_source": "詳情頁",
+      "note": "官網行事曆列表寫 2026-11-05 至 2026-12-03，和詳情頁不同，本站以詳情頁為準。"
+    }
+  ]
+}

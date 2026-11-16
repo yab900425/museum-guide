@@ -1,0 +1,15 @@
+{
+  "slug": "tfam",
+  "name": "臺北市立美術館",
+  "city": "臺北市",
+  "district": "中山區",
+  "category": "美術館",
+  "address": "臺北市中山區中山北路三段181號",
+  "hours": null,
+  "closed": null,
+  "website": "https://www.tfam.museum/",
+  "exhibition_page": "https://www.tfam.museum/Exhibition/Exhibition.aspx?ddlLang=zh-tw",
+  "verified_on": "2026-11-16",
+  "notes": "查證時，官網「當期展覽」頁（頁面更新日期 2026/11/15）沒有列出任何展覽，開放時間也只有連結，沒有寫在頁面上。可能是頁面讀取方式的限制，請直接到官網確認；在確認前，本站不填寫任何展覽，也不憑印象補資料。",
+  "exhibitions": []
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "ntmofa",
+  "name": "國立臺灣美術館",
+  "city": "臺中市",
+  "district": "西區",
+  "category": "美術館",
+  "address": "臺中市西區五權西路一段2號",
+  "hours": "週二至週五 09:00–17:00；週六、週日 09:00–18:00",
+  "closed": "週一休館",
+  "website": "https://www.ntmofa.gov.tw/",
+  "exhibition_page": "https://www.ntmofa.gov.tw/News_Actives_photo.aspx?n=1462&sms=11893",
+  "verified_on": "2026-11-16",
+  "notes": "官網公告 2026-11-28 因選舉與公民投票，開館時間調整為 13:00–18:00（上午休館）。官網首頁輪播另提到〈甘露水〉常設展示，但沒有寫展期與地點，因此未收錄。五個展覽都已核對展覽詳情頁；其中兩個展覽的開始日與官網首頁列表不同，本站以詳情頁為準。",
+  "exhibitions": [
+    {
+      "id": "ntmofa-asia-biennial",
+      "title": "Mrahul Tminun．共織．Co-Weaving：2026亞洲藝術雙年展",
+      "kind": "特展",
+      "start": "2026-11-07",
+      "end": "2027-02-28",
+      "location": "102–107 展覽室、202 展覽室、美術街、大廳、水牛廳、時光天井、戶外園區",
+      "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60163",
+      "date_source": "詳情頁",
+      "note": "官網首頁列表只寫開始日 2026-10-12，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "ntmofa-annette-messager",
+      "title": "心計／心悸：安妮特．梅薩潔 Mind Games: Annette Messager",
+      "kind": "特展",
+      "start": "2026-11-21",
+      "end": "2027-03-07",
+      "location": "101 展覽室",
+      "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60165",
+      "date_source": "詳情頁",
+      "note": "官網首頁列表只寫開始日 2026-10-27，和詳情頁不同，本站以詳情頁為準。"
+    },
+    {
+      "id": "ntmofa-bill-fontana",
+      "title": "聲築幻影．臺灣：以眼傾聽，以耳凝視─比爾．豐塔納",
+      "kind": "特展",
+      "start": "2026-11-14",
+      "end": "2027-02-14",
+      "location": "U-108 SPACE",
+      "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60168",
+      "date_source": "詳情頁",
+      "note": null
+    },
+    {
+      "id": "ntmofa-collection",
+      "title": "時代印記：國美典藏常設展",
+      "kind": "常設展",
+      "start": "2026-09-12",
+      "end": "2027-04-25",
+      "location": "301–302 展覽室、201 展覽室",
+      "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60150",
+      "date_source": "詳情頁",
+      "note": null
+    },
+    {
+      "id": "ntmofa-art-education",
+      "title": "「文字跑進作品裡了!」2026藝術教育展",
+      "kind": "特展",
+      "start": "2026-09-29",
+      "end": "2027-08-29",
+      "location": "臺灣兒童藝術基地（B1 教育展示空間）",
+      "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60146",
+      "date_source": "詳情頁",
+      "note": null
+    }
+  ]
+}

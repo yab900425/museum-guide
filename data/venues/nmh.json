@@ -1,0 +1,49 @@
+{
+  "slug": "nmh",
+  "name": "國立歷史博物館",
+  "city": "臺北市",
+  "district": "中正區",
+  "category": "博物館",
+  "address": "臺北市中正區南海路49號",
+  "hours": null,
+  "closed": null,
+  "website": "https://www.nmh.gov.tw/",
+  "exhibition_page": "https://www.nmh.gov.tw/",
+  "verified_on": "2026-11-16",
+  "notes": "官網首頁沒有寫開放時間（只有連結），本站不填寫，請至官網確認。三個展覽的展期與地點，都已經逐一核對展覽詳情頁。",
+  "exhibitions": [
+    {
+      "id": "nmh-animal-patterns",
+      "title": "異想物語—館藏動物圖樣的沉浸旅程",
+      "kind": "特展",
+      "start": "2026-10-08",
+      "end": "2027-03-21",
+      "location": "5樓 501 展廳",
+      "source_url": "https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60061",
+      "date_source": "詳情頁",
+      "note": null
+    },
+    {
+      "id": "nmh-her-collection",
+      "title": "隱身到現身──史博典藏的她們",
+      "kind": "特展",
+      "start": "2026-10-16",
+      "end": "2027-01-17",
+      "location": "1樓",
+      "source_url": "https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60060",
+      "date_source": "詳情頁",
+      "note": null
+    },
+    {
+      "id": "nmh-fu-yiyao",
+      "title": "東瀾．共韻—傅益瑤臺日藝術交流展",
+      "kind": "特展",
+      "start": "2026-10-13",
+      "end": "2026-11-22",
+      "location": "2樓",
+      "source_url": "https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60058",
+      "date_source": "詳情頁",
+      "note": null
+    }
+  ]
+}

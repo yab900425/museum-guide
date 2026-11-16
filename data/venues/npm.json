@@ -1,0 +1,126 @@
+{
+  "slug": "npm",
+  "name": "國立故宮博物院（北部院區）",
+  "city": "臺北市",
+  "district": "士林區",
+  "category": "博物館",
+  "address": "臺北市士林區至善路二段221號",
+  "hours": "週二至週日（官網展覽頁未列出實際時段）",
+  "closed": "待確認（官網另有「週一特別開放參觀日」，詳見官網）",
+  "website": "https://www.npm.gov.tw/",
+  "exhibition_page": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+  "verified_on": "2026-11-16",
+  "notes": "官網展覽列表沒有寫各展覽的展出展廳。以下展期取自「當期展覽」列表頁，尚未逐一核對各展覽詳情頁。",
+  "exhibitions": [
+    {
+      "id": "npm-guiyou",
+      "title": "貴冑榮華─清代宮廷的日常風景",
+      "kind": "常設展",
+      "start": "2020-05-01",
+      "end": null,
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": "官網只標示起日，沒有結束日。"
+    },
+    {
+      "id": "npm-painting-aesthetics",
+      "title": "獨具慧眼：美感原則與繪畫欣賞",
+      "kind": "特展",
+      "start": "2026-10-09",
+      "end": "2026-12-27",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-treasures-2026-3",
+      "title": "國寶聚焦 2026-III",
+      "kind": "特展",
+      "start": "2026-10-09",
+      "end": "2026-12-27",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-conservation",
+      "title": "物華再現：文物保存修復",
+      "kind": "特展",
+      "start": "2026-10-08",
+      "end": "2027-01-03",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-calligraphy-aesthetics",
+      "title": "真知灼見：美感原則與書法欣賞",
+      "kind": "特展",
+      "start": "2026-09-25",
+      "end": "2026-12-27",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-yangxin",
+      "title": "養心：巨幅名作展",
+      "kind": "特展",
+      "start": "2026-09-22",
+      "end": "2026-12-27",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-huiliu-1950",
+      "title": "匯流1950：新入藏文物風華",
+      "kind": "特展",
+      "start": "2026-09-11",
+      "end": "2028-09-10",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-red-chamber",
+      "title": "看得見的紅樓夢",
+      "kind": "特展",
+      "start": "2024-05-17",
+      "end": "2027-08-15",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    },
+    {
+      "id": "npm-rococo",
+      "title": "華麗魔法屋─故宮的洛可可珍藏",
+      "kind": "常設展",
+      "start": "2021-12-24",
+      "end": null,
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": "官網只標示起日，沒有結束日。"
+    },
+    {
+      "id": "npm-inkstone",
+      "title": "愛硯成痴特展",
+      "kind": "特展",
+      "start": "2023-09-28",
+      "end": "2027-05-25",
+      "location": null,
+      "source_url": "https://www.npm.gov.tw/Exhibition-Current.aspx?sno=03010101&l=1",
+      "date_source": "列表頁",
+      "note": null
+    }
+  ]
+}
