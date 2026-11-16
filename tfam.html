@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>臺北市立美術館｜全台藝文展覽表</title>
+<meta name="description" content="臺北市立美術館的展覽整理，附官網來源與查證日期">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header class="bar"><div class="bar-in">
+  <a class="brand" href="../index.html"><span class="zh">全台藝文展覽表</span><span class="en">Taiwan Exhibition Guide</span></a>
+  <nav><a href="../index.html#exhibitions">展覽</a><a href="../index.html#venues">場館</a><a href="../index.html#about">資料說明</a></nav>
+</div></header>
+<div class="wrap"><div class="vhead"><a class="back" href="../index.html">← 回展覽總表</a><h1>臺北市立美術館</h1><span class="en">美術館</span></div>
+<dl class="info2"><dt>縣市</dt><dd>臺北市中山區</dd><dt>類型</dt><dd>美術館</dd><dt>地址</dt><dd>臺北市中山區中山北路三段181號</dd><dt>開放時間</dt><dd>官網未寫明，待確認</dd><dt>休館日</dt><dd>官網未寫明，待確認</dd><dt>官網</dt><dd><a href="https://www.tfam.museum/" target="_blank" rel="noopener">https://www.tfam.museum/</a></dd><dt>展覽頁</dt><dd><a href="https://www.tfam.museum/Exhibition/Exhibition.aspx?ddlLang=zh-tw" target="_blank" rel="noopener">官網展覽頁</a></dd><dt>查證日期</dt><dd>2026-11-16</dd></dl>
+<div class="vnote">查證時，官網「當期展覽」頁（頁面更新日期 2026/11/15）沒有列出任何展覽，開放時間也只有連結，沒有寫在頁面上。可能是頁面讀取方式的限制，請直接到官網確認；在確認前，本站不填寫任何展覽，也不憑印象補資料。</div>
+<h2 style="font-family:var(--serif);margin:28px 0 14px">展覽（0 筆）</h2>
+<p class="empty">目前沒有收錄任何展覽，請見上方說明，並直接到官網確認。</p>
+</div>
+<footer class="site"><div class="wrap">
+  <p>資料整理自各場館官網，僅供參考；展期、開放時間與票價請以官網公告為準。本站不是任何場館的官方網站。</p>
+  <p>網站建置日期：2026-11-16｜新增或修改內容的規則請見 <a href="../AGENTS.md">AGENTS.md</a></p>
+</div></footer>
+<script>
+(function () {
+  var d = new Date(), today = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  var LABEL = { ongoing: '展出中', upcoming: '即將開展', ended: '已結束', unknown: '展期待確認' };
+  function statusOf(s, e) {
+    if (!s && !e) return 'unknown';
+    if (s && today < s) return 'upcoming';
+    if (e && today > e) return 'ended';
+    return 'ongoing';
+  }
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.exh'));
+  cards.forEach(function (c) {
+    var st = statusOf(c.dataset.start, c.dataset.end);
+    c.dataset.status = st;
+    var b = c.querySelector('[data-role="status"]');
+    if (b) { b.className = 'st ' + st; b.textContent = LABEL[st]; }
+  });
+})();
+</script>
+</body>
+</html>
